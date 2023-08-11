@@ -52,3 +52,5 @@ In this solution, we'll walk through the process of initializing a new Git repos
 ## Conclusion
 
 With these steps, you've successfully initialized a new Git repository, added a file, staged and committed changes, and viewed the commit history. You now have a basic understanding of how to start a new Git project and manage version control.
+
+← Back to Challenge || [Index](../../README.md) || [Next Challenge →](../Challenge_0.2/Challenge.md)

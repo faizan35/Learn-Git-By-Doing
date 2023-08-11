@@ -36,8 +36,8 @@ In this challenge, you'll learn how to clone an existing Git repository from a r
 
 ## Challenge Submission
 
-After completing the challenge, create a new directory inside the "Category_0" directory (if not already provided) with a name "Solution" (e.g., "[Solution.md](./Solution.md)"). Inside this directory, include your solution files, such as the Git commands you used and the final state of your Git repository.
+After completing the challenge, create a new directory inside the "Category_0.2" directory (if not already provided) with a name "Solution" (e.g., "[Solution.md](./Solution.md)"). Inside this directory, include your solution files, such as the Git commands you used and the final state of your Git repository.
 
-You can then commit and push your changes to your fork of the repository. Feel free to open an issue if you have any questions or need assistance.
+You can then commit and push your changes to your fork of the repository. Feel free to open an issue if you have any questions or need assistance
 
 ← [Previous Challenge](../Challenge_0.1/Challenge.md) || [Index](../../README.md) || [Next Challenge →](../Challenge_0.3/Challenge.md)
