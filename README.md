@@ -1,4 +1,4 @@
-# Practice GIT
+# Learn-Git-By-Doing
 
 ## Work in Progress...
 
